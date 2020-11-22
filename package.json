@@ -1,0 +1,22 @@
+{
+  "name": "junior-frontend-interview-questions",
+  "version": "1.0.0",
+  "description": "Вопросы и теория для прохождения собеседования на Junior Front-end Developer",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npx markdownlint-cli -c ./config/markdownlint.json ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svoboda-rabstvo/junior-frontend-interview-questions.git"
+  },
+  "author": "svoboda-rabstvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svoboda-rabstvo/junior-frontend-interview-questions/issues"
+  },
+  "homepage": "https://github.com/svoboda-rabstvo/junior-frontend-interview-questions#readme"
+}
